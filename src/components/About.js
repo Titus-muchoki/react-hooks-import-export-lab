@@ -1,5 +1,5 @@
 import React from "react";
-const image = "demo";
+import{image} from "../data/user";
 function About() {
   return (
     <div id="about">
